@@ -1,30 +1,11 @@
-# test
+# PredioApp
 
-Localización de Predios
+Una aplicación para regitrar predios de usuarios autenticados. Hecho con React, Frontend. Simulación de Backend con Firebase. Backend en Node.js y conectado a MongoDB (no se pudo implementar el Backend por falta de tiempo pero se anexa el avance). Esta app es visible desde cualquier dispositivo de cualquier tamaño de pantalla.
 
-- Crear un login(Autenticación) (username y password).
-- Crear un formulario que permita registrar predios (Propietario, Dirección)
-- Crear un mapa que permita visualizar todos los predios registrados con sus ubicaciones. (Pin).
-- Debe tener un buscador el mapa
+URL heroku: https://predio-app.herokuapp.com/
 
-*Utilizar cualquiera de las siguientes tecnologías
-React JS
-Python
-Javascript puro
-
-*Puede utilizar cualquier librería de visualización de mapas donde la pueda integrar.
+No olvidar hacer el npm install cuando se descargue.
 
 
-Backend, usar en éste test:
-Applicación:
-Python - Bonus*
-Node
-firebase or similar
 
-*Envío de prueba.
-Plataforma:
-Despliéguelo en heroku free plan, o donde quieras pero accesible desde cualquier lugar.
 
-El código debe ser enviado a éste repositorio
-Bifurca éste repo ó crea tu fork en éste repo
-Envia un PR (Pull Request) con la URL del test y el código utilizado.
